@@ -10,7 +10,7 @@ const profile = {
     university: 'University of Southern Philippines Foundation (USPF)'
   },
 
-  highschool: [
+  highschools: [
     'Junior Highschool (JHS)',
     'Gr7-G10 (2015-2020)',
     'University of San Carlos North Campus (USC NC)'
