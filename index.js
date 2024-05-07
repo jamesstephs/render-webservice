@@ -4,16 +4,24 @@ const app = express();
 const port = 3000;
 
 const profile = {
-  education: {
-    degree: 'Bachelor of Science in Information Technology (BSIT)',
-    year: '2nd Year Student (2023-2024)',
-    university: 'University of Southern Philippines Foundation (USPF)'
-  },
+  education: [
+    {
+      degree: 'Bachelor of Science in Information Technology (BSIT)',
+      year: '2nd Year Student (2023-2024)',
+      university: 'University of Southern Philippines Foundation (USPF)'
+    },
+    {
+      degree: 'Junior Highschool (JHS)',
+      year: 'Grade 7-Grade 5 (2015-2020)',
+      university: 'University of North Campus (USC NC)'
+    }
+  ],
   skills: [
     'Average proficiency in front-end technologies: HTML, CSS, and JavaScript.',
     'Strong graphic design skills.',
     '10 years of experience in video editing.',
-    'Excellent communication and teamwork abilities.'
+    'Excellent communication and teamwork abilities.',
+    'I play basketball and ride bike'
   ],
   experience: [
     'Proficient video editor with a decade of experience.',
