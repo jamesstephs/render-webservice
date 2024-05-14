@@ -10,6 +10,11 @@ const profile = {
       year: "2nd Year Student (2023-2024)",
       university: "University of Southern Philippines Foundation (USPF)",
     },
+    {
+      degree: "wara (BSIT)",
+      year: "2asdasasdt (2023-2024)",
+      university: "apas(USPF)",
+    },
   ],
 
   highschools: [
