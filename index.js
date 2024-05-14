@@ -15,6 +15,11 @@ const profile = {
       year: "2asdasasdt (2023-2024)",
       university: "apas(USPF)",
     },
+    {
+      degree: "Elemntary",
+      year: "grade school",
+      university: "mango(usc nc)",
+    },
   ],
 
   highschools: [
@@ -40,6 +45,11 @@ const profile = {
     {
       description: [
         "Proficient video editor with a decade of experience.",
+        "Extensive skills in crafting compelling visual narratives across multiple platforms.",
+        "Dedication to excellence demonstrated through a side hustle in video editing.",
+      ],
+      description: [
+        "lebron.",
         "Extensive skills in crafting compelling visual narratives across multiple platforms.",
         "Dedication to excellence demonstrated through a side hustle in video editing.",
       ],
