@@ -50,14 +50,16 @@ const profile = {
       description: ["Dean's List, USPF", "1st placer in intramurals softball"],
     },
   ],
-  personalInfo: {
-    name: "James Stephen B Dikitanan",
-    address: "Lahug, Cebu City",
-    phoneNumber: "09430518711",
-    email: "jdikitanan_ccs@uspf.edu.ph",
-    birthdate: "June 7 2003",
-    sex: "Male",
-  },
+  personalInfo: [
+    {
+      name: "James Stephen B Dikitanan",
+      address: "Lahug, Cebu City",
+      phoneNumber: "09430518711",
+      email: "jdikitanan_ccs@uspf.edu.ph",
+      birthdate: "June 7 2003",
+      sex: "Male",
+    },
+  ],
 };
 
 // Enable CORS for all routes
