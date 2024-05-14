@@ -14,10 +14,14 @@ const profile = {
     'Junior Highschool (JHS)',
     'Gr7-G10 (2015-2020)',
     'University of San Carlos North Campus (USC NC)',
+  ],
+
+  highschools: [
     'Junior Highschool (JHS)',
     'Gr7-G10 (2015-2020)',
     'University of San Carlos North Campus (USC NC)',
   ],
+
 
   skills: [
     'Average proficiency in front-end technologies: HTML, CSS, and JavaScript.',
